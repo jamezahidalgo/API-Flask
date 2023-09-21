@@ -10,9 +10,9 @@ CREATE TABLE empleado(
 ```
 
 ```
-CREATE TABLE usaurio(
-    email PRIMARY KEY VARCHAR(255) NOT NULL UNIQUE,
-    password VARCHAR2(255) NOT NULL)
+CREATE TABLE usuario(
+    email VARCHAR(255) PRIMARY KEY ,
+    password VARCHAR(255) NOT NULL)
 ```
 
 Pruebe el proyecto desde Replit y vea que se puede conectar a la BD y que al pedir el listado retorna una lista vacía
