@@ -2,8 +2,10 @@
 Ejemplo API Flask
 
 ## Paquetes instalados en Replit
-psycopg2-utils
-bcryp
+
++psycopg2-utils
+
++bcryp
 
 ## Paso 2 - Crear la BD
 Crear en ElephantSQL una base de datos y ejecutar el script:
